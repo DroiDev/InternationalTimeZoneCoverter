@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InternationalTimeZoneCoverter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="input_date">Define your input DateTime</string>
+    <string name="outout_date">According to your Time Zone</string>
+    <string name="convert">Convert</string>
+
+</resources>
